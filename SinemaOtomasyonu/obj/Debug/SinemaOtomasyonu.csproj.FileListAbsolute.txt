@@ -1,0 +1,31 @@
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\sahin\source\repos\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form2.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form2.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form2.resources
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\sahin\Desktop\C# Kursu\PROJELER\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
